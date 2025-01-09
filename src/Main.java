@@ -6,6 +6,8 @@ public class Main {
         String name = "Name";
         char character = 'A';
         int num = 10;
+        double number = 3.14;
+        boolean bool = true;
 
         System.out.println(name);
         System.out.println(character);
