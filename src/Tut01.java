@@ -1,6 +1,5 @@
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
-public class Main {
+//In this class we discuss Variables and Data types
+public class Tut01 {
     public static void main(String[] args) {
         // Variable declaration and assigning values
         String name = "Name";
