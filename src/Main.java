@@ -12,5 +12,7 @@ public class Main {
         System.out.println(name);
         System.out.println(character);
         System.out.println(num);
+        System.out.println(number);
+        System.out.println(bool);
     }
 }
