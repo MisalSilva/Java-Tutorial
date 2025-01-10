@@ -9,6 +9,8 @@ public class Tut02 {
         boolean bool;
         double num;
 
+        // Variable Declaration in Scanner
+
 
 
 
