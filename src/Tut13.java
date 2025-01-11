@@ -1,4 +1,4 @@
-// In this class we discuss java String
+// In this class we discuss java String part 1
 public class Tut13 {
     public static void main(String[]args){
 
