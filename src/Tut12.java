@@ -1,4 +1,4 @@
-// In this class we discuss about Break and Continue statements in java
+// In this class we discuss Break and Continue statements in java
 public class Tut12 {
     public static void main(String[] args) {
 
