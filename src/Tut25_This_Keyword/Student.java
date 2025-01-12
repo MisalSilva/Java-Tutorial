@@ -1,6 +1,6 @@
-package Tut25;
+package Tut25_This_Keyword;
 // In this class we discuss java this keyword
-// this keyword helps to distinguish between local variable and variables passed in the method as parameters
+//  helps to distinguish between local variable and variables passed in the method as parameters
 public class Student {
     String name;
     int age;
