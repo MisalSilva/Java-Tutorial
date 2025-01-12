@@ -1,6 +1,8 @@
 package Tut17;
 // In this class we discuss java constructors
 public class Test {
+    // Constructors are used to create instances of the class
+    // main purpose is to initialize the objects when they are created
     // The constructor is the same as the class name
     // It has no return type
     // It will be automatically called when an object is created
