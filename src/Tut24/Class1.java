@@ -1,6 +1,7 @@
 package Tut24;
 // In this class we discuss Abstract classes and Methods in Abstraction
 // Abstract class are classes that contain at least one abstract method which is an empty method with no implementation
+// But there can be method with implementation within that class
 // Objects cannot be created for abstract classes
 // For another class to inherit from it a value must be assigned to that abstract method in the subclass using overriding
 abstract public class Class1 {
