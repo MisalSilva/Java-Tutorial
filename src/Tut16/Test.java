@@ -1,6 +1,8 @@
 package Tut16;
 // In this class we discuss Static keyword in java
 public class Test {
+// You can access static variables and methods only from static classes (ex. main class)
+// If you want to access non-static variables and methods from static classes you need to create objects (ex. obj from test class)
 
     String name;
 
