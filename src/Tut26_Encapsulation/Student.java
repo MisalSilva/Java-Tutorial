@@ -1,5 +1,5 @@
-package Tut26;
-
+package Tut26_Encapsulation;
+// In this class we discuss Java Encapsulation
 public class Student {
     private String name; // cannot be accessed, must create getter and setter to be able to write and read
     private int age; // cannot be accessed, must create getter and setter to be able to write and read
