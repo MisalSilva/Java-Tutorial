@@ -1,4 +1,4 @@
-package Tut23;
+package Tut23_Method_Overriding;
 
 public class Child extends Parent {
 
