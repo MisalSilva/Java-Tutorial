@@ -1,4 +1,4 @@
-package Tut24;
+package Tut24_Abstract_classes;
 
 public class Class2 extends Class1 {
 
