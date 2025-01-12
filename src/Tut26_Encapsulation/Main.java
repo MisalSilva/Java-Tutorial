@@ -1,4 +1,4 @@
-package Tut26;
+package Tut26_Encapsulation;
 
 public class Main {
     public static void main(String[] args) {
