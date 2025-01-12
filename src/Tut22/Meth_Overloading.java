@@ -1,5 +1,6 @@
 package Tut22;
 // In this class we discuss Method Overloading in polymorphism
+// The number of variables passed or variable's data types should be different
 public class Meth_Overloading {
 
     public void meth(){
