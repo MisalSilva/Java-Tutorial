@@ -1,4 +1,4 @@
-package Tut24;
+package Tut24_Abstract_classes;
 // In this class we discuss Abstract classes and Methods in Abstraction
 // Abstract class are classes that contain at least one abstract method which is an empty method with no implementation
 // But there can be method with implementation within that class
