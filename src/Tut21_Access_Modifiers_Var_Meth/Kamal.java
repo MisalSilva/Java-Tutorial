@@ -1,4 +1,4 @@
-package Tut21;
+package Tut21_Access_Modifiers_Var_Meth;
 
 public class Kamal  {
 

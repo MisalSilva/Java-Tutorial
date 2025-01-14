@@ -1,4 +1,4 @@
-package Tut21;
+package Tut21_Access_Modifiers_Var_Meth;
 // In this class we discuss java Access modifiers in variables and methods
 public class Nimal {
 
