@@ -1,4 +1,4 @@
-package Tut19;
+package Tut19_Inheritance;
 
 public class LatestPhone extends NewPhone{
 

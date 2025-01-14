@@ -1,4 +1,4 @@
-package Tut19;
+package Tut19_Inheritance;
 // In this class we discuss Java Inheritance
 // Single Inheritance - when there's only one parent(super) class and one child(sub) class
 // Multilevel Inheritance - when a super class has a sub class and that sub class has a sub class of it's own
