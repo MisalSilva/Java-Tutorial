@@ -1,4 +1,4 @@
-package Tut16;
+package Tut16_Static_Keyword;
 // In this class we discuss Static keyword in java
 public class Test {
 // You can access static variables and methods only from static classes (ex. main class)
