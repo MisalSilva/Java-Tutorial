@@ -1,4 +1,4 @@
-package Tut20;
+package Tut20_Access_Modifiers_class;
 // In this class we discuss Java Access Modifiers in classes
 // public classes can be accessed through objects by other classes
 // Even if the classes are in different packages
