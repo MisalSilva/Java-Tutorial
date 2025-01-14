@@ -1,4 +1,4 @@
-package Tut18;
+package Tut18_Constructor_Overloading;
 // In this class we discuss constructor overloading
 public class Bank {
     int rupees;
