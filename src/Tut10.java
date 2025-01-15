@@ -6,6 +6,7 @@ public class Tut10 {
         System.out.println(names[0]);
         names [0] = "maina";
         System.out.println(names[0]);
+        System.out.println(names[1]);
 
         // Defining arrays length on the start
         int[] numbers = new int[5];
