@@ -1,5 +1,5 @@
 package Tut34_Multithreading;
-
+// Executing multiple threads
 class C implements Runnable{
     public void run(){
         for(int i=0; i<10; i++){
