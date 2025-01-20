@@ -17,7 +17,7 @@ public class Test {
         System.out.println(b);
         Double c = 3.4;
 
-        // When using wrapper class we create empty(null) variables with wrapper class
+        // When using wrapper class we can create empty(null) variables
         //int d = ; cannot create empty variables
         Integer e = null; // can create null variables
 
